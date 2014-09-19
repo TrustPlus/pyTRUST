@@ -1,3 +1,18 @@
+The pycoin license is explained in the pycoin/LICENSE file within the pycoin folder.
+
+The trustplus-python license is explained in the trustplus-python/COPYING file within the trustplus-python folder.
+
+The python-bittrex license is explained in the python-bittrex/LICENSE file within the python-bittrex folder.
+
+The paypal-rest-api-sdk-python license is explained in the paypal-rest-api-sdk-python/LICENSE file within the paypal-rest-api-sdk-python folder.
+
+The following license shall apply to all the files contained within this folder, with exception to those files contained within the following folders:
+
+pycoin
+trustplus-python
+python-bittrex
+paypal-rest-api-sdk-python
+
    Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/

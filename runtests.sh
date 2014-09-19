@@ -8,4 +8,6 @@ cd $THIS_DIR
 PYTHONPATH=$THIS_DIR
 export PYTHONPATH
 
-python pycoin-tests/rawtrans-tests.py
+python tests/pycoin-tests/rawtrans-tests.py
+python tests/paypal-tests/paypal-tests.py
+python tests/sqlite-tests/sqlite-tests.py

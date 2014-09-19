@@ -1,0 +1,9 @@
+*.pyc
+*.noseids
+.coverage
+build/
+dist/
+MANIFEST
+*stage-*
+*tmp*
+.*.sw*

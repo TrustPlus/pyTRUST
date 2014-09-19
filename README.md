@@ -8,3 +8,6 @@ psycopg: http://initd.org/psycopg/
 
 mysql: http://mysql-python.sourceforge.net/
 
+Testing bitcoin-python and pycoin for alternative methods of communication with the trustplus peer network. 
+
+Using a bitcoin-python derivative allows for faster deployment intefacing with trustplusd. pycoin provides lower level control.
